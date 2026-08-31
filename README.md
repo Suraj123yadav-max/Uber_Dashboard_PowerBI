@@ -2,7 +2,7 @@
 
 **A 5-page, multi-vehicle operations & revenue intelligence dashboard built on 150,000+ Uber ride records.**
 
-Author: **Ishan Singh** · Tool: Power BI Desktop · Data: Uber ride-booking dataset (Kaggle-style, 150K rows)
+Author: **Suraj Yadav** · Tool: Power BI Desktop · Data: Uber ride-booking dataset (Kaggle-style, 150K rows)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-005A9C?style=flat)
