@@ -63,22 +63,22 @@ Cover page framing the project, author, and page navigation.
 ### 2 · Overview Page
 The executive summary: top-line KPIs (Completed Bookings, Lost Bookings, Revenue, Total Distance, Avg Distance), a Completed Bookings trend (month/quarter toggle), a monthly Revenue bar chart, Revenue by Vehicle Type, Top Pickup/Drop locations, Avg. Customer/Driver rating, and the three-ring Completed / Cancelled / Incomplete breakdown.
 
-![Overview Page](images/02-overview.jpg)
+![Overview Page](02-overview.jpg)
 
 ### 3 · Vehicle Page
 A vehicle-level performance table   image, distinct customers, revenue, completed bookings, contribution %, and a per-vehicle distance sparkline   so any single vehicle type's health can be read at a glance.
 
-![Vehicle Page](images/03-vehicle.jpg)
+![Vehicle Page](03-vehicle.jpg)
 
 ### 4 · Revenue Page
 Revenue-focused deep dive: Revenue per day (with a date-range slicer), Revenue by Payment Mode, Top 5 Drop Locations by Revenue, and Top 5 Customers by Revenue.
 
-![Revenue Page](images/04-revenue.jpg)
+![Revenue Page](04-revenue.jpg)
 
 ### 5 · Bookings Page
 Operational drill-down: Ride Distance per month/quarter, Reason for Customer Cancellation (donut), Bookings by Pickup Location, a Bookings-per-Week-by-Time-Slot matrix, and a Target KPI gauge tracking bookings against a set goal.
 
-![Bookings Page](images/05-bookings.jpg)
+![Bookings Page](05-bookings.jpg)
 
 ---
 
